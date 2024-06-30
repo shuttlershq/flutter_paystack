@@ -1,3 +1,7 @@
+## 1.0.8
+* Bump dependencies
+* Fix tests
+
 ## 1.0.7
 * Fixed an issue where only one bank showed-up in the banks dropdown
 * Fixed build issues caused by androidx material library
